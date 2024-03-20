@@ -2,11 +2,25 @@
     "separators": ["/"],
     "links": {
         "index": "https://thecrafters001.github.io/",
+
         "social": {
+            
             "mastodon": {
                 "meow": "https://meow.social/@TheCrafters001",
                 "donphan": "https://donphan.social/@TheCrafters001"
-            }
-        }
+            },
+
+            "bluesky": "https://bsky.app/profile/thecrafters001.bsky.social",
+            "twitter": "https://twitter.com/TheCrafters001",
+            "x": "https://x.com/TheCrafters001",
+
+            "gamejolt": "https://gamejolt.com/@TheCrafters001"
+        },
+        
+        "games": {
+            "pokefarm": "https://pfq.link/@JQXS"
+        },
+
+        "ask": "https://retrospring.net/@TheCrafters001"
     }
 }
