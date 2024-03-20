@@ -1,0 +1,12 @@
+{
+    "separators": ["-", "/"],
+    "links": {
+        "index": "https://thecrafters001.github.io/",
+        "social": {
+            "mastodon": {
+                "meow": "https://meow.social/@TheCrafters001",
+                "donphan": "https://donphan.social/@TheCrafters001"
+            }
+        }
+    }
+}
