@@ -7,7 +7,8 @@
             
             "mastodon": {
                 "meow": "https://meow.social/@TheCrafters001",
-                "donphan": "https://donphan.social/@TheCrafters001"
+                "donphan": "https://donphan.social/@TheCrafters001",
+                "transfur": "https://transfur.social/@TheCrafters001"
             },
 
             "bluesky": "https://bsky.app/profile/thecrafters001.bsky.social",
@@ -23,6 +24,6 @@
 
         "toyhouse": "https://toyhou.se/TheCrafters001",
 
-        "ask": "https://retrospring.net/@TheCrafters001"
+        "ask": "https://neospring.org/@thecrafters001"
     }
 }
